@@ -29,7 +29,7 @@ section{
    margin-right: auto;
 }
 
-textarea {
+div.comment{
     display: block;
     margin-left: auto;
     margin-right: auto;
