@@ -1,0 +1,35 @@
+
+
+h1{
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Raleway', sans-serif;
+    text-align: center;
+}
+
+
+h2{
+    padding: 10px;
+    margin: 10px;
+    font-color: teal;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+}
+
+div.centerplayer div.mejs-container {
+margin-right: auto;
+margin-left: auto;
+}
+    
+/* background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/4f/f5/b9/4ff5b96d92a234ec56a478724a8b6055.jpg'); */
+body{
+background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/ca/c4/ca/cac4cad507a4de0ec7d6ef09a3a3bc10.jpg');
+}
+
+img{
+    width: 130px;
+    height: 130px;
+   display: block;
+   margin-left: auto;
+   margin-right: auto;
+}
