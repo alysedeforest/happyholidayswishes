@@ -3,7 +3,7 @@
 h1{
     padding: 10px;
     margin: 10px;
-    font-family: 'Raleway', sans-serif;
+    font-family: 'Unica One', cursive;
     text-align: center;
 }
 
@@ -13,6 +13,7 @@ h2{
     margin: 10px;
     font-color: teal;
     font-family: 'Unica One', cursive;
+    font-family: 'Raleway', sans-serif;
     text-align: center;
 }
 
