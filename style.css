@@ -31,7 +31,9 @@ section{
    margin-right: auto;
 }
 
-div.comment{
+
+
+textarea{
     display: block;
     margin-left: auto;
     margin-right: auto;
