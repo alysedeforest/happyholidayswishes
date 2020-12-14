@@ -21,9 +21,10 @@ audio { display:none;}
     
 /* background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/4f/f5/b9/4ff5b96d92a234ec56a478724a8b6055.jpg'); https://i.pinimg.com/564x/ca/c4/ca/cac4cad507a4de0ec7d6ef09a3a3bc10.jpg */
 body{
-background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/52/9b/41/529b418022b097b14b5f76ad50cecb45.jpg');
+background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/d6/c0/95/d6c0954a8bcb6cad191031e8cc20304b.jpg');
 }
-
+https://i.pinimg.com/564x/d6/c0/95/d6c0954a8bcb6cad191031e8cc20304b.jpg
+/*https://i.pinimg.com/564x/52/9b/41/529b418022b097b14b5f76ad50cecb45.jpg*/
 section{
    display: block;
    margin-left: auto;
@@ -43,6 +44,12 @@ textarea{
   width: 60%;
   border: 3px solid #73AD21;
   padding: 10px;
+}
+
+input[type="text"] {
+             position: relative;
+             display: block;
+             margin : 0 auto;
 }
 
 img{
