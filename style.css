@@ -5,8 +5,8 @@ h1{
     margin: 10px;
     font-family: 'Unica One', cursive;
     text-align: center;
-    font-size: 60px;
-    color: FireBrick;
+    font-size: 65px;
+    color: red;
 }
 
 
@@ -20,6 +20,7 @@ h2{
 .noaudio{
     padding: 10px;
     margin: 10px;
+    font-size: 45px;
     font-family: 'Sacramento', cursive;
     text-align: center;
 }
