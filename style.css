@@ -42,14 +42,15 @@ textarea{
 .center {
   margin: auto;
   width: 60%;
-  border: 3px solid #73AD21;
   padding: 10px;
 }
 
-input[type="text"] {
-             position: relative;
-             display: block;
-             margin : 0 auto;
+/*border: 3px solid #73AD21;*/
+
+.fixthisnow{
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
 }
 
 img{
