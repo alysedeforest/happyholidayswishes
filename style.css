@@ -17,6 +17,14 @@ h2{
     text-align: center;
 }
 
+.noaudio{
+    padding: 10px;
+    margin: 10px;
+    font-family: 'Sacramento', cursive;
+    text-align: center;
+}
+
+
 audio { display:none;}
     
 /* background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/4f/f5/b9/4ff5b96d92a234ec56a478724a8b6055.jpg'); https://i.pinimg.com/564x/ca/c4/ca/cac4cad507a4de0ec7d6ef09a3a3bc10.jpg */
