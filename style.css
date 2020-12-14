@@ -6,7 +6,7 @@ h1{
     font-family: 'Unica One', cursive;
     text-align: center;
     font-size: 60px;
-    font-color: red;
+    color: red;
 }
 
 
@@ -22,7 +22,7 @@ audio { display:none;}
     
 /* background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/4f/f5/b9/4ff5b96d92a234ec56a478724a8b6055.jpg'); https://i.pinimg.com/564x/ca/c4/ca/cac4cad507a4de0ec7d6ef09a3a3bc10.jpg */
 body{
-background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/0a/81/99/0a81996e942cb7f32053663f6c3afe6e.jpg');
+background-image: linear-gradient(rgba(255,255,255,0.75),rgba(255,255,255,0.75)), url('https://i.pinimg.com/564x/f7/b9/2a/f7b92a19337b4054a6cd0df6d79a9354.jpg');
 }
 
 section{
@@ -39,7 +39,7 @@ textarea{
     margin-right: auto;
 }
 
-section.submission{
+div.submission{
    display: block;
    margin-left: auto;
    margin-right: auto;
